@@ -128,8 +128,8 @@ Kibana 대시보드를 활용하여 다음 지표를 시각화하고 가설을 �
 
 ### 가설 2
 <br>
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/7e5675d3-0c6a-4c2b-9db2-d5670993b6f6" />
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/4baccce3-b51b-4ceb-8bb9-dc3090773492" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9765f227-e35a-4b4e-88ab-2f98d933ba4b" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/8b0f18ff-6342-4b2f-830d-501ca00a4299" />
 
 #### [인사이트 1] 30대의 신용카드 사용 패턴
 - 발견<br>
