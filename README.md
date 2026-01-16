@@ -50,7 +50,7 @@ SQL을 활용해 원본 데이터를 전처리 및 가공한 후 **Elasticsearch
 
 분석에 필수적인 **핵심 컬럼의 결측 행을 제거**하여 데이터 품질을 확보했습니다.  
 해당 컬럼은 개수가 적고 수치형 데이터가 아니므로 **행 제거 방식**이 적절하다고 판단했습니다.
-
+<img width="670" height="170" alt="image" src="https://github.com/user-attachments/assets/0abac5b2-baa4-4b6f-98d6-e2738fea5031" />
 <img width="670" alt="image" src="https://github.com/user-attachments/assets/042f5bea-72c9-4d5b-a04f-5fe5546182c3" />
 
 - `read_csv_auto()`를 활용한 CSV 자동 스키마 인식  
